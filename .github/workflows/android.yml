@@ -23,8 +23,8 @@ jobs:
 
       - name: Setup Android SDK
         uses: android-actions/setup-android@v3
-        with :
-        accept-android-sdk-licenses: yes
+        with:
+        accept-android-sdk-licenses:yes
 
       - name: Setup Gradle Environment
         uses: gradle/actions/setup-gradle@v4

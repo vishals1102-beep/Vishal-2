@@ -22,8 +22,8 @@ jobs:
           java-version: 21
 
       - name: Setup Android SDK
-    uses: android-actions/setup-android@v3
-      with:
+        uses: android-actions/setup-android@v3
+        with:
         accept-android-sdk-licenses: true
 
      - name: Setup Gradle Environment

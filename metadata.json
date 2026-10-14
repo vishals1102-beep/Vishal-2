@@ -1,0 +1,10 @@
+{
+  "name": "Remix Quick Fix Electronics",
+  "description": "Workshop-grade management, B2B parts marketplace, technician verification, and repair tracking platform for electronics repair professionals in India.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
